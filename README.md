@@ -25,8 +25,8 @@ Cute-Love-Letter/
 This project is pure HTML — no installation needed.
 You only need:
 
-*A web browser (Chrome, Firefox, Edge, etc.)
-*Optional editor if you want to customize
+* A web browser (Chrome, Firefox, Edge, etc.)
+* Optional editor if you want to customize
 
 ## ▶️ How to Run
 
