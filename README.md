@@ -6,13 +6,9 @@ This project is designed to be lightweight, aesthetic, and easy to customize —
 ## 🌸 Features
 
 * ❤️ Fully responsive single-page love letter
-
 * 💕 Clean and minimal design
-
 * 🌷 Smooth text flow and aesthetic layout
-
 * ✨ Easy to customize (just edit the text inside index.html)
-
 * 🚀 No dependencies — works on any device, any browser
 
 ## 📂 Project Structure
